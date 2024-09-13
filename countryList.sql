@@ -8,7 +8,7 @@ CREATE TABLE `countries` (
 ) ENGINE=MyISAM AUTO_INCREMENT=243 DEFAULT CHARSET=latin1;
 
 insert into `countries` values('1','Afghanistan'),
- ('2','Aringland Islands'),
+ ('2','Aringland Islands.'),
  ('3','Albania'),
  ('4','Algeria'),
  ('5','American Samoa'),
